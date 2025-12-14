@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 I'm Pratakhveer Singh</h1>
+<p align="center">
+  <i>Just a chill guy doing chill things</i><br>
+  In my room with a can of Monster, coding away my boredom
+</p>
 
-<!--
-**pvsssss/pvsssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
+- Aspiring **Machine Learning Engineer**
+- Loves reading books 📚
+- Certified perfectionist ✔️ (details matter)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 What I’m Into
+- Machine Learning & AI
+- Mathematics
+- Cybersecurity
+- Problem-solving & clean code
+
+---
+
+### ☕ Let’s Talk
+HMU if you wanna talk anything related to **tech or programming**  
+
+---
+
+<p align="center">
+  <sub>building, learning, and vibing — one line of code at a time</sub>
+</p>
