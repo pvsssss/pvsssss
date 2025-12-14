@@ -28,10 +28,10 @@ HMU if you wanna talk anything related to **tech or programming**
 <p align="left">
   <a href="https://www.linkedin.com/in/pratakhveersingh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/singh_pratakhveer" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-111111?style=flat&logo=instagram&logoColor=E4405F"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Discord-pvsgottabekiddingme-5865F2?style=flat&logo=discord&logoColor=white"/>
 </p>
 
