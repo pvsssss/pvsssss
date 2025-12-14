@@ -1,39 +1,31 @@
-# > Pratakhveer Singh
-
-`Just a chill guy doing chill things`  
-`In my room with a can of Monster, coding away my boredom`
-
----
-
-## 🧠 SYSTEM.INFO
-
-Name    : Pratakhveer Singh  
-Role    : Aspiring Machine Learning Engineer  
-Mindset : Certified Perfectionist  
-Fuel    : Caffeine  
-Status  : Always Learning  
+<h1 align="center">Hey 👋 I'm Pratakhveer Singh</h1>
+<p align="center">
+  <i>Just a chill guy doing chill things</i><br>
+  In my room with a can of Monster, coding away my boredom
+</p>
 
 ---
 
-## 💻 CORE.INTERESTS
+### 🧠 About Me
+- Aspiring **Machine Learning Engineer**
+- Loves reading books 📚
+- Certified perfectionist ✔️ (details matter)
+
+---
+
+### 💻 What I’m Into
 - Machine Learning & AI
 - Mathematics
 - Cybersecurity
-- Logical Problem Solving
+- Problem-solving & clean code
 
 ---
 
-## 📊 TERMINAL.STATS
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pvsssss&show_icons=true&theme=chartreuse-dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pvsssss&layout=compact&theme=chartreuse-dark&hide_border=true)
+### ☕ Let’s Talk
+HMU if you wanna talk anything related to **tech or programming**  
 
 ---
 
-## 📡 CONNECT
-> HMU if you wanna talk anything related to **tech or programming**
-
----
-
-`// booting curiosity.exe`
+<p align="center">
+  <sub>building, learning, and vibing — one line of code at a time</sub>
+</p>
